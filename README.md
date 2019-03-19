@@ -1,5 +1,7 @@
 ## Welcome to "Hello World" with GitHub Actions
 
+Foo bar.
+
 This course will walk you through the [developer documentation](https://developer.github.com/actions/creating-workflows/creating-a-new-workflow/) for creating a new workflow with GitHub Actions. 
 
 **Ready to get started? Navigate to the first issue.**
